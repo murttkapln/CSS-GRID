@@ -16,7 +16,7 @@ At the end of the this coding challenge, students will be able to;
 
 - Write a code that creates a css grid.
 
-![CSS Grid Live]([https://murttkapln.github.io/CSS-GRID/](https://murttkapln.github.io/CSS-GRID/))
+![CSS Grid Live](https://murttkapln.github.io/CSS-GRID/)
 
 * Functionally similar to this: [CSS Grid](https://codepen.io/AaronClarusway/full/wvGpaXP)
 
