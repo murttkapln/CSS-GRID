@@ -1,5 +1,5 @@
 
-# Coding Challenge - 02 : CSS Grid
+# CSS Grid
 
 Purpose of the this coding challenge is to write a code that make a CSS Grid.
 
