@@ -1,6 +1,8 @@
 
 # CSS Grid
 
+[CSS Grid Live](https://murttkapln.github.io/CSS-GRID/)
+
 Purpose of the this coding challenge is to write a code that make a CSS Grid.
 
 ## Learning Outcomes
@@ -15,8 +17,6 @@ At the end of the this coding challenge, students will be able to;
 ## Problem Statement
 
 - Write a code that creates a css grid.
-
-[CSS Grid Live](https://murttkapln.github.io/CSS-GRID/)
 
 * Functionally similar to this: [CSS Grid](https://codepen.io/AaronClarusway/full/wvGpaXP)
 
